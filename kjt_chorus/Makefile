@@ -1,8 +1,8 @@
 # Project Name
-TARGET = your_pedal
+TARGET = kjt_chorus
 
 # Sources
-CPP_SOURCES = your_pedal.cpp
+CPP_SOURCES = kjt_chorusl.cpp
 
 # Library Locations
 LIBDAISY_DIR = ../libDaisy

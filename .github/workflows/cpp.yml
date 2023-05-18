@@ -11,7 +11,7 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      PEDAL_NAME: your_pedal
+      PEDAL_NAME: kjt_chorusl
 
     steps:
     - name: Checkout repository

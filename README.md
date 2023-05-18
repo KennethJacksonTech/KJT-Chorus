@@ -11,7 +11,7 @@ make -C libDaisy
 
 Then flash your terrarium with:
 ```
-cd your_pedal
+cd kjt_chorus
 # using USB (after entering bootloader mode)
 make program-dfu
 # using JTAG/SWD adaptor (like STLink)
