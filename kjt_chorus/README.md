@@ -1,8 +1,8 @@
-# Your Pedal
+# KJT Chorus
 
 ## Author
 
-Your name goes here.
+Kenneth Jackson
 
 ## Description
 
